@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name RTQ)(type KiCad)(uri ${KIPRJMOD}/rtq.pretty)(options "")(descr ""))
+)

@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-03-11 BZR 4742)-product date = Sam 15 Mär 2014 16:47:51 CET
+Cmp-Mod V01 Created by CvPcb (2014-03-11 BZR 4742)-product date = Don 20 Mär 2014 10:14:24 CET
 
 BeginCmp
 TimeStamp = /5317A3DC;
@@ -129,14 +129,14 @@ EndCmp
 BeginCmp
 TimeStamp = /531AF48E;
 Reference = C19;
-ValeurCmp = C;
+ValeurCmp = 18pF;
 IdModule  = SMD_Packages:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /531AF4A0;
 Reference = C20;
-ValeurCmp = C;
+ValeurCmp = 18pF;
 IdModule  = SMD_Packages:SM0603_Capa;
 EndCmp
 
@@ -157,14 +157,14 @@ EndCmp
 BeginCmp
 TimeStamp = /531AF4AB;
 Reference = C23;
-ValeurCmp = C;
+ValeurCmp = 1pF;
 IdModule  = SMD_Packages:SM0603_Capa;
 EndCmp
 
 BeginCmp
 TimeStamp = /531AF4DB;
 Reference = C24;
-ValeurCmp = C;
+ValeurCmp = 1pF;
 IdModule  = SMD_Packages:SM0603_Capa;
 EndCmp
 
@@ -178,7 +178,7 @@ EndCmp
 BeginCmp
 TimeStamp = /531AF4F1;
 Reference = C26;
-ValeurCmp = C;
+ValeurCmp = 1.2pF;
 IdModule  = SMD_Packages:SM0603_Capa;
 EndCmp
 
@@ -221,7 +221,7 @@ BeginCmp
 TimeStamp = /531351AB;
 Reference = J1;
 ValeurCmp = USB;
-IdModule  = Connect:USB_B;
+IdModule  = Connect:USB_MINI_B;
 EndCmp
 
 BeginCmp
@@ -234,28 +234,28 @@ EndCmp
 BeginCmp
 TimeStamp = /531AF4BE;
 Reference = L1;
-ValeurCmp = INDUCTOR;
+ValeurCmp = 2nH;
 IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /531AF4D0;
 Reference = L2;
-ValeurCmp = INDUCTOR;
+ValeurCmp = 2nH;
 IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /531AF4E6;
 Reference = L3;
-ValeurCmp = INDUCTOR;
+ValeurCmp = 2nH;
 IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /531AF4FC;
 Reference = L4;
-ValeurCmp = INDUCTOR;
+ValeurCmp = 3.3nH;
 IdModule  = SMD_Packages:SM0805;
 EndCmp
 
@@ -344,7 +344,7 @@ IdModule  = Discret:SW_PUSH_SMALL;
 EndCmp
 
 BeginCmp
-TimeStamp = /531346AC;
+TimeStamp = /5326EB41;
 Reference = U1;
 ValeurCmp = CC2538;
 IdModule  = RTQ:RTQ;

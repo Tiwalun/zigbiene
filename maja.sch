@@ -923,9 +923,6 @@ F 3 "" H 10650 5250 60  0000 C CNN
 $EndComp
 Wire Wire Line
 	3000 4300 3000 4450
-Connection ~ 3000 3300
-Wire Wire Line
-	4700 3300 3000 3300
 Wire Wire Line
 	6650 2700 7650 2700
 Wire Wire Line
@@ -1009,11 +1006,6 @@ Wire Wire Line
 Wire Wire Line
 	8200 1200 8850 1200
 Connection ~ 8400 1200
-Wire Wire Line
-	3000 2300 4700 2300
-Wire Wire Line
-	3000 2300 3000 3900
-Connection ~ 3650 2300
 Wire Wire Line
 	3650 2700 3650 2800
 Wire Wire Line
@@ -1503,4 +1495,10 @@ $EndComp
 NoConn ~ 5300 1400
 Wire Wire Line
 	6800 5000 6800 4900
+Wire Wire Line
+	3650 2300 4700 2300
+Wire Wire Line
+	4700 3300 3000 3300
+Wire Wire Line
+	3000 3300 3000 3900
 $EndSCHEMATC

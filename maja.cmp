@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-03-11 BZR 4742)-product date = Don 20 Mär 2014 10:14:24 CET
+Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Sun 23 Mar 2014 11:47:19 AM CET
 
 BeginCmp
 TimeStamp = /5317A3DC;
@@ -375,7 +375,7 @@ BeginCmp
 TimeStamp = /531AF285;
 Reference = X2;
 ValeurCmp = 32kHz;
-IdModule  = Crystals:Crystal_Round_Horizontal_3mm_BigPad;
+IdModule  = Crystals:Crystal_HC49-SD_SMD;
 EndCmp
 
 EndListe

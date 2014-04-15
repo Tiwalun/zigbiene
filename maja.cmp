@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Sun 23 Mar 2014 11:47:19 AM CET
+Cmp-Mod V01 Created by Cvpcb (2014-03-27 BZR 4770)-product   date = Die 15 Apr 2014 20:10:17 CEST
 
 BeginCmp
 TimeStamp = /5317A3DC;
@@ -368,7 +368,7 @@ BeginCmp
 TimeStamp = /531357E6;
 Reference = X1;
 ValeurCmp = 32MHz;
-IdModule  = Crystals:Crystal_HC49-SD_SMD;
+IdModule  = Crystals:Crystal_FOX-FE_SMD;
 EndCmp
 
 BeginCmp

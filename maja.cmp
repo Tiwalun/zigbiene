@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-03-27 BZR 4770)-product   date = Die 15 Apr 2014 20:10:17 CEST
+Cmp-Mod V01 Created by Cvpcb (2014-03-27 BZR 4770)-product   date = Mon 28 Apr 2014 18:48:53 CEST
 
 BeginCmp
 TimeStamp = /5317A3DC;
@@ -361,7 +361,7 @@ BeginCmp
 TimeStamp = /531B12D1;
 Reference = U3;
 ValeurCmp = Antenna;
-IdModule  = Oddities:NetTie-I_SMD;
+IdModule  = Oddities:NetTie-I_Connected_SMD;
 EndCmp
 
 BeginCmp

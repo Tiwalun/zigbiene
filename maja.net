@@ -1,8 +1,8 @@
 (export (version D)
   (design
     (source /home/atraber/Documents/cc2538/zigbiene/maja.sch)
-    (date "Fre 21 Mär 2014 19:16:19 CET")
-    (tool "eeschema (2014-03-11 BZR 4742)-product"))
+    (date "Mon 28 Apr 2014 18:49:03 CEST")
+    (tool "Eeschema (2014-03-27 BZR 4770)-product"))
   (components
     (comp (ref C10)
       (value 1uF)
@@ -85,7 +85,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 53179A93))
     (comp (ref R4)
-      (value 2.2)
+      (value 2.2k)
       (libsource (lib device) (part R))
       (sheetpath (names /) (tstamps /))
       (tstamp 53179ABB))
